@@ -7,7 +7,7 @@ A third-year college project 🎓 3️⃣
 ## Overview
 
 Welcome to the Carrefour Street App, a Java GUI application developed as a part of a third-year college project. This project serves as a practical exploration of the concept of threads, enhancing your understanding of concurrent programming in Java.
-
+![PJM Logo](https://github.com/Napi55/Hourly_Energy_Consumption/assets/88117366/55c2eff5-edbf-49e9-b3d1-d047c305b03b)
 ## Project Description
 
 The Carrefour Street App is designed to simulate a street intersection scenario, where multiple lanes converge. Through this project, you will gain hands-on experience with threading concepts, including synchronization, coordination, and resource management.
